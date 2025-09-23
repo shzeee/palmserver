@@ -3,7 +3,7 @@ from werkzeug.utils import secure_filename
 import os
 import cv2
 import numpy as np
-import mediapipe as mp
+import mediapipe as mp 
 
 # ------------------------------
 # CONFIG
